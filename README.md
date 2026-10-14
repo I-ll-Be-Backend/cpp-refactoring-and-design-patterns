@@ -7,6 +7,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 | Lesson | Steps | Video | Interactive |
 |---|---|---|---|
 | [DRY: one rule, one place](dry/) | 11 | [Watch](https://www.youtube.com/watch?v=6RaGYGculR8) | [Open](https://illbebackend.dev/lessons/dry/cpp/) |
+| [Clean code: rename for intent](rename-for-intent/) | 13 | [Watch](https://www.youtube.com/watch?v=PywLC9iWfjI) | [Open](https://illbebackend.dev/lessons/rename-for-intent/cpp/) |
 
 ## How to use it
 
