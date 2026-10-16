@@ -2,6 +2,12 @@
 
 Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: messy C++ code gets better, one small, safe refactoring at a time. Every lesson has a video, an [interactive version](https://illbebackend.dev) you can step through, and a folder here with the code after every step.
 
+## Code smells
+
+| Lesson | Steps | Video | Interactive |
+|---|---|---|---|
+| [Clean code: replace comments with code](replace-comments-with-code/) | 13 | [Watch](https://www.youtube.com/watch?v=3S0moCAqI3w) | [Open](https://illbebackend.dev/lessons/replace-comments-with-code/cpp/) |
+
 ## Principles
 
 | Lesson | Steps | Video | Interactive |
