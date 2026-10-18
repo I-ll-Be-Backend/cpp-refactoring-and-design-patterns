@@ -15,6 +15,7 @@ Code from the [I'll Be Backend](https://www.youtube.com/@illbebackend) videos: m
 | [DRY: one rule, one place](dry/) | 11 | [Watch](https://www.youtube.com/watch?v=6RaGYGculR8) | [Open](https://illbebackend.dev/lessons/dry/cpp/) |
 | [KISS: replace a rule engine with plain code](kiss-unwind-a-clever-abstraction/) | 13 | [Watch](https://www.youtube.com/watch?v=KA_P7DgtZ3E) | [Open](https://illbebackend.dev/lessons/kiss-unwind-a-clever-abstraction/cpp/) |
 | [Clean code: rename for intent](rename-for-intent/) | 13 | [Watch](https://www.youtube.com/watch?v=PywLC9iWfjI) | [Open](https://illbebackend.dev/lessons/rename-for-intent/cpp/) |
+| [YAGNI: delete speculative options](yagni-delete-speculative-options/) | 13 | [Watch](https://www.youtube.com/watch?v=NO0Sc72A1y4) | [Open](https://illbebackend.dev/lessons/yagni-delete-speculative-options/cpp/) |
 
 ## How to use it
 
